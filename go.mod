@@ -1,3 +1,3 @@
 module github.com/tyl33r/ac.geek.cl
 
-go 1.21.5
+go 1.21
