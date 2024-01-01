@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libre mercado on @arturo</title>
+    <link>https://a.geek.cl/tags/libre-mercado/</link>
+    <description>Recent content in libre mercado on @arturo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 14 Feb 2020 06:44:00 +0000</lastBuildDate>
+    <atom:link href="https://a.geek.cl/tags/libre-mercado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18-10-19 Bendito Mercado</title>
+      <link>https://a.geek.cl/18-10-19-bendito-mercado/</link>
+      <pubDate>Fri, 14 Feb 2020 06:44:00 +0000</pubDate>
+      <guid>https://a.geek.cl/18-10-19-bendito-mercado/</guid>
+      <description>&amp;lt;br &amp;gt; Fotografía Por ~ Wesley Tingey</description>
+    </item>
+    <item>
+      <title>Maldito Libre Mercado</title>
+      <link>https://a.geek.cl/maldito-libre-mercado/</link>
+      <pubDate>Sun, 29 Sep 2019 06:44:00 +0000</pubDate>
+      <guid>https://a.geek.cl/maldito-libre-mercado/</guid>
+      <description>&amp;lt;br &amp;gt; Fotografía Por ~ Hanson Lu</description>
+    </item>
+  </channel>
+</rss>

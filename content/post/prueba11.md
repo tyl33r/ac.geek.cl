@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'Prueba11'
+date = 2024-01-01T15:11:50-03:00
 draft = true
 
 tags = ["golang", "hugo"]

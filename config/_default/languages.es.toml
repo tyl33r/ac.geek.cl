@@ -4,21 +4,21 @@ languageDirection = "ltr"
 weight = 1
 
 title = "@arturo"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+   description = "Un blog personal (Otro más)"
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
+	name = "Arturo Castro M."
+   image = "img/ac-face.jpeg"
   # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+   bio = "Papá, entusiasta de la filosofía estoica, la tecnología y lo que toque."
+	links = [
+      { email = "mailto:arturo@geek.cl" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -59,4 +59,4 @@ title = "@arturo"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
