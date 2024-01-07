@@ -16,7 +16,7 @@ tags:
 showSummary: true
 title: Maldito Libre Mercado
 ---
-![Maldito Libre Mercado](/img/09/hanson-lu-sq5P00L7lXc-unsplash.jpg#c)<br \>
+![Maldito Libre Mercado](hanson-lu-sq5P00L7lXc-unsplash.jpg)
 <cite>Fotografía Por ~ [Hanson Lu](https://unsplash.com/@hansonluu)</cite>
 
 Me apesta y me desanima lo desprotegidos que estamos en general, no sólo en Chile, ante el [Libre Mercado](https://es.wikipedia.org/wiki/Mercado_libre).

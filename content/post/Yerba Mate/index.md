@@ -15,7 +15,7 @@ images = [
   license = "cc-by-nc-sa-4.0"
 +++
 
-![Mate Mañanita](/img/10/kiky-mate.jpeg)
+![Mate Mañanita](kiky-mate.jpeg)
 
 Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».
 
@@ -23,4 +23,4 @@ Venía a contar que soy un entusiasta de probar cosas nuevas, (de todo menos eso
 
 Bueno, hace un tiempo encontré esta nueva marca de mate -al menos para mí- que se llama Mañanita, y su sabor me encantó. Así que me declaro hincha de la [Mañanita](https://www.lasmarias.com.ar) de Corrientes, que ojo, la pueden encontrar en los supermercados del elefante carero.
 
-![Mateando](/img/10/yo-mate.jpeg)
+![Mateando](yo-mate.jpeg)

@@ -11,7 +11,6 @@ feature = 'img/img.jpg la imagen destacada del artículo.'
 featureAlt = 'alt de la imagen destacada del artículo.'
 cover = 'ruta de la imagen portada'
 coverCaption = 'Texto que se desplegará debajo del cover'
-thumbnail = 'ruta a la imagen miniatura'
-thumbnailAlt = 'Texto que se mostrará abajo del thumb'
+
 
 +++

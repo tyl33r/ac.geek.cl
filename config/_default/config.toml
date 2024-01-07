@@ -14,4 +14,10 @@ summaryLength = 0
 
 [permalinks]
  post = "/:slug/"
- pagina = "/pagina/:title/"  
+ pagina = "/pagina/:title/" 
+
+#[frontmatter]
+ #date = [":filename", ":default", ":fileModTime"]
+
+[frontmatter]
+  date = [":filename", ":default"] 

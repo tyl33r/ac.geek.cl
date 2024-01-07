@@ -15,7 +15,9 @@ tags:
 - libre mercado
 title: 18-10-19 Bendito Mercado
 ---
-![Equidad Bendito Mercado](/img/02/equidad-bendito-mercado.jpeg#c)<br \>
+
+![Bendito Libre Mercado](equidad-bendito-mercado.jpeg)
+
 <cite>Fotografía Por ~ [Wesley Tingey](https://unsplash.com/@wesleyphotography)</cite>
 
 Se rebalsó el vaso, el [Maldito Libre Mercado](https://a.geek.cl/maldito-libre-mercado/) tiene sus días contados. Para los *“afortunados”* de siempre es una catástrofe, para el resto, la gran mayoría, se instala la esperanza de mayor equidad y justicia social. 

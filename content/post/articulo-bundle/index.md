@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'Articulo Bundle'
+date = 2024-01-07T04:22:26-03:00
 draft = true
 
 tags = ["golang", "hugo"]
@@ -11,7 +11,6 @@ feature = 'img/img.jpg la imagen destacada del artículo.'
 featureAlt = 'alt de la imagen destacada del artículo.'
 cover = 'ruta de la imagen portada'
 coverCaption = 'Texto que se desplegará debajo del cover'
-thumbnail = 'ruta a la imagen miniatura'
-thumbnailAlt = 'Texto que se mostrará abajo del thumb'
+
 
 +++
