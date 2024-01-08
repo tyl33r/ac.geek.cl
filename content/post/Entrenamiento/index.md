@@ -4,16 +4,13 @@ date = 2021-10-01T22:35:06-03:00
 slug = "entrenamiento-para-hombres-antierosion"
 description = "Una pequeña reflexión personal de porqué entreno."
 draft = false
-toc = false
+showSummary = true
+cover = "consejos-gimnasio-hombres-45.jpg"
+coverCaption = "Un consejo de hombre a hombre"
+thumbnail = "consejos-gimnasio-hombres-45.jpg"
+thumbnailAlt = "Consejos para hombres de 40 y más que van al gimnasio"
 categories = ["Salud"]
 tags = ["gimnasio", "suplementos", "entrenamiento"]
-images = [
-  "https://unsplash.com/photos/-BMY7lxjj5A"
-] # overrides site-wide open graph image
-[[copyright]]
-  owner = "Arturo"
-  date = "2021"
-  license = "cc-by-nc-sa-4.0"
 +++
 
 El tiempo pasa implacable por nuestra piel, usando los poros, pasando a llevar los huesos y desgastándolos así como el viento erosiona las piedras en los cerros.
@@ -34,3 +31,4 @@ Así comienza el plan *«antierosión»*, o mejor dicho *«antierosión descontr
 Son 4 días de 7 de la semana que voy al gimnasio, entreno mi cuerpo y mantengo mi mente ocupada en recuperar el aliento que pierdo con lo que levanto. Aplico lo de este artículo  [Entrenamiento y Suplementación Para Hombres](https://tyl3r.co/entrenamiento-y-suplementos-para-hombres-de-40-anos/)
 
 Es un juego entretenido y desafiante, es una lucha entre Elliot y Mr. Robot.
+

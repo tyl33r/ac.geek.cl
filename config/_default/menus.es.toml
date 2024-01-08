@@ -15,18 +15,18 @@
   pageRef = "post"
   weight = 10
 
+[[main]]
+  name = "Categorias"
+  pageRef = "categories"
+  weight = 20
+
 #[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
-
-[[main]]
-  identifier = "search"
+  identifier = "Buscar"
   weight = 99
   [main.params]
     action = "search"

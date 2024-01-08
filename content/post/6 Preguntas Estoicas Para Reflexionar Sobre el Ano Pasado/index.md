@@ -3,6 +3,7 @@ title = '6 Preguntas Estoicas Para Reflexionar Sobre el Año Pasado.'
 slug = '6-preguntas-estoicas-reflexionar-sobre-ano'
 date = 2023-12-31T13:09:35-03:00
 draft = true
+showSummary = true
 tags = ["reflexión", "2023", "estoicismo", "filosofía", "2024"]
 description = '6 Preguntas estoicas que sirven para reflexionar sobre lo que fue tu año y enfrentar el año que comienza.'
 cover = '6-preguntas-estoicas.jpg'
