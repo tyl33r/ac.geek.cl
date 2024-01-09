@@ -23,12 +23,12 @@
 
 /* Estilos globales */
 html {
-  font-size: 100%; /* 16px */
+  font-size: 18px; /* 18px */
 }
 
 body {
   font-family: 'Inconsolata', 'Courier New', monospace, sans-serif;
-  font-size: 1rem; /* 16px */
+  font-size: 1rem; /* 18px */
   font-weight: medium; /* Aquí ajustamos el peso a bold */
   line-height: 1.6;
   color: #333;
