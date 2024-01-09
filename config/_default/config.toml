@@ -7,7 +7,7 @@ defaultContentLanguage = "es"
 
 enableRobotsTXT = true
 paginate = 10
-summaryLength = 10
+summaryLength = 5 
 
 [list]
 showSummary = true
