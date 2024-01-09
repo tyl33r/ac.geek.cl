@@ -67,7 +67,7 @@ h6 {
 /* Estilos para móviles (Media Queries) */
 @media (max-width: 768px) {
   html {
-    font-size: 90%; /* 14.4px */
+    font-size: 95%; /* 14.4px */
   }
 
   h1 {
