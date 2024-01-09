@@ -9,7 +9,7 @@ cover = "consejos-gimnasio-hombres-45.jpg"
 coverCaption = "Un consejo de hombre a hombre"
 thumbnail = "consejos-gimnasio-hombres-45.jpg"
 thumbnailAlt = "Consejos para hombres de 40 y más que van al gimnasio"
-categories = ["Salud"]
+	categories = ["Salud"]
 tags = ["gimnasio", "suplementos", "entrenamiento"]
 +++
 

@@ -1,0 +1,85 @@
+/* Importar las fuentes de Google Fonts o definir las locales */
+/* Importar las fuentes de Google Fonts o definir las locales */
+@font-face {
+  font-family: 'Merriweather';
+  src: url('/fonts/Merriweather-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('/fonts/Inconsolata-Regular.woff') format('woff');
+  font-weight: normal; /* Puedes cambiar este valor si tienes diferentes pesos */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('/fonts/Inconsolata-Bold.woff') format('woff');
+  font-weight: medium; /* Asegúrate de tener este archivo si quieres usar el peso bold */
+  font-style: normal;
+}
+
+/* Estilos globales */
+html {
+  font-size: 100%; /* 16px */
+}
+
+body {
+  font-family: 'Inconsolata', 'Courier New', monospace, sans-serif;
+  font-size: 1rem; /* 16px */
+  font-weight: medium; /* Aquí ajustamos el peso a bold */
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Estilos para títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', 'Georgia', serif, sans-serif; /* Merriweather con fuentes de respaldo */
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2rem; /* 32px */
+}
+
+h2 {
+  font-size: 1.75rem; /* 28px */
+}
+
+h3 {
+  font-size: 1.5rem; /* 24px */
+}
+
+h4 {
+  font-size: 1.25rem; /* 20px */
+}
+
+h5 {
+  font-size: 1rem; /* 16px */
+}
+
+h6 {
+  font-size: 0.875rem; /* 14px */
+}
+
+/* Estilos para móviles (Media Queries) */
+@media (max-width: 768px) {
+  html {
+    font-size: 90%; /* 14.4px */
+  }
+
+  h1 {
+    font-size: 1.75rem; /* Reduce tamaño para móviles */
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  /* ...ajusta otros tamaños de título según necesites */
+}
+
+/* Otros estilos responsivos y de legibilidad pueden incluirse aquí */
+

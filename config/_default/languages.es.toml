@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "@arturo"
-copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Este blog está licenciado: CC BY-NC-SA 4.0"
 
 [params]
   dateFormat = "2 January 2006"
@@ -15,7 +15,7 @@ copyright = "Copy, _right?_ :thinking_face:"
 [author]
 	name = "Arturo Castro M."
    image = "img/ac-face.jpeg"
-  # headline = "I'm only human"
+   headline = "Blog personal, acá mis opiniones, consejos, pensamientos sobre gimnasio, tecnología, filosofía..."
    bio = "Papá, entusiasta de la filosofía estoica, la tecnología y lo que toque."
 	links = [
       { email = "mailto:arturo@geek.cl" },
