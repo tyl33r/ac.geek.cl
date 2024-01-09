@@ -15,7 +15,7 @@ copyright = "Este blog está licenciado: CC BY-NC-SA 4.0"
 [author]
 	name = "Arturo Castro M."
    image = "img/ac-face.jpeg"
-   headline = "Blog personal, acá mis opiniones, consejos, pensamientos sobre gimnasio, tecnología, filosofía..."
+   headline = "Blog personal: mis opiniones, consejos y pensamientos, sobre gimnasio, tecnología, filosofía..."
    bio = "Papá, entusiasta de la filosofía estoica, la tecnología y lo que toque."
 	links = [
       { email = "mailto:arturo@geek.cl" },
