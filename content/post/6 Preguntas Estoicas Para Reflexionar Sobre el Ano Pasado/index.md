@@ -1,21 +1,22 @@
 +++
-title = '6 Preguntas Estoicas Para Reflexionar Sobre el Año Pasado.'
-slug = '6-preguntas-estoicas-reflexionar-sobre-ano'
+title = "6 Preguntas Estoicas Para Reflexionar Sobre el Año Pasado."
+slug = "6-preguntas-estoicas-reflexionar-sobre-ano"
 date = 2023-12-31T13:09:35-03:00
-draft = true
+draft = false
 showSummary = true
 tags = ["reflexión", "2023", "estoicismo", "filosofía", "2024"]
+categories = ["Persomal"]
 description = '6 Preguntas estoicas que sirven para reflexionar sobre lo que fue tu año y enfrentar el año que comienza.'
-cover = '6-preguntas-estoicas.jpg'
-coverCaption = '6 Preguntas Para Revisar Tu Año 2023.'
-thumbnail = '6-preguntas-estoicas.jpg'
-thumbnailAlt = 'Para revisar tu año, 6 preguntas estoicas.'
+cover = "6-preguntas-estoicas.jpg"
+coverCaption = "6 Preguntas Estoicas Para Revisar Tu Año 2023."
+thumbnail = "6-preguntas-estoicas.jpg"
+thumbnailAlt = "Para revisar tu año, 6 preguntas estoicas."
 
 +++
 
 Desde [El Griego Estoico](https://elgriegoestoico.substack.com/p/6-preguntas-estoicas-para-reflexionar), hago eco de estas 6 preguntas para reflexionar sobre lo que ha sido este 2023 y prepararse para el 2024.
 
-No soy, o más bien no era de reflexionar sobre el año y la vida en general. Solía ser alguien que vivía, digamos un poco el día a día, con todo lo que eso significa. Hoy gracias en gran parte a la madurez y la preciada experiencia que te dan los años, sumado a los errores y caídas propias de un ser humano. Puedo decir que aprendí que vivir el *«día a día»* no es el mejor método para enfrentar la vida, sobre todo si buscas ser hoy una mejor persona que ayer. De la reflexión o meditación vienen las *«caídas de tejas»*, muy necesarias para ir evitando por la vida tropezar siempre con la misma piedra.
+No soy, o más bien no era de reflexionar sobre el año y la vida en general. Solía ser alguien que vivía, digamos un poco el día a día, con todo lo que eso significa. Hoy gracias en gran parte a la madurez y la preciada experiencia que te dan los años, sumado a los errores y caídas propias de un ser humano. Puedo decir que aprendí que vivir el *«día a día»* no es el mejor método para enfrentar la vida, sobre todo si buscas ser hoy una mejor persona que ayer. De la reflexión o meditación viene la *«caída de teja»*, muy necesaria para ir evitando por la vida tropezar siempre con la misma piedra.
 
 Aprovechando esa, llamemosla, *«idea fuerza»*, paso a desarrollar estas 6 preguntas, que están muy basadas en los principales conceptos de la **filosofía estoica**, de la cual me declaro un entusiasta aprendiz. 
 
@@ -31,29 +32,31 @@ Sin duda, esta pregunta va muy de la mano de la primera. Y aquí veo una oportun
 
 El orden, la estructura son mis aliados, no es que sea alguien especialmente ordenado ni mucho menos. Es solo que me gusta las cosas ordenadas y ojalá con un desenlace predecible. Como daño colateral,  el desarrollo de la creatividad y/o espontaneidad es prácticamente 0. Pero no se puede tener todo en la vida, opto por tener lo mejor de una de las caras de la moneda. 
 
-Para poder usar mi tiempo más sabiamente, desarrollaré una  planificación de mis días, quizá utilizando agendas, calendarios, notas, etc. Creo que es tal cual decía el filósofo:
+Para poder usar mi tiempo más sabiamente, desarrollaré una  planificación de mis días, quizá utilizando agendas, calendarios, notas... Creo que es tal cual decía el filósofo:
 
 > No es que tengamos poco tiempo, sino que perdemos mucho.
 <cite>--Séneca.</cite>
 
-Planificando y siendo más consiente de mi tiempo, creo podré utilizar mi tiempo más sabiamente.
+Planificando y siendo más consiente de mi tiempo, creo que podré utilizarlo más provechosamente.
 				
 ## 3. ¿Qué acciones me acercarán a ser la mejor versión de mi mismo?
-Resumiéndolo en una palabra, **perseverar**. Seguir el camino que me propuse transitar hace ya unos años. No abandonar por tropiezos normales para un ser humano imperfecto. Abrir mi mente y mi corazón, observarme con amor y racionalmente.
+Resumiéndolo en una palabra, **perseverar**. Seguir el camino que me propuse transitar hace ya unos años. No abandonar por tropiezos que son parte de un ser humano imperfecto. Abrir mi mente y mi corazón, observarme con amor y racionalmente.
 
 Continuar asistiendo al gimnasio, meditar, compartir con mi familia, pareja y amigos, leer y escribir. Cuidar mi alimentación. Querer y/o amar al prójimo.
 
 ## 4. ¿Con quién debo pasar mi tiempo para crecer?
 Con mis hijos, hermano, pareja, amigos. Y pretendo sumar más amigos, ojalá amigos a los que pueda admirar por cualquier motivo. Creo que estar al lado de personas a las cuales admiras por sus capacidades es muy enriquecedor.
 
-No está demás mencionar que por mis hijos, hermano y pareja siento una enorme admiración y amor. Son cada uno de ellos personas por las que tengo que agradecerle a la vida por ser parte de mi vida.
+No está demás mencionar que por mis hijos, hermano y pareja siento una enorme admiración y amor. Son cada uno de ellos personas por las que tengo que agradecerle a Dios por ser parte de mi vida.
 
 ## 5. ¿Cómo quiero que los demás me recuerden?
-Como una persona que nunca buscó hacerle mal a nadie, al contrario, de esencia íntegra, la cual buscó desarrollarse durante lo que duró su vida, y con esto entregarles/entregarse a los suyos lo mejor que le fue posible. 
+Como una persona que nunca buscó hacerle mal a nadie, al contrario. De esencia íntegra, la cual buscó desarrollarse durante lo que duró su vida, y con esto entregarles/entregarse a los suyos lo mejor que le fue posible. 
 
 ## 6. ¿Mis objetivos reflejan mis valores más profundos?
-Mis actuales objetivos creo que están bastante alineados con mis valores. Uno de los principales valores y motivaciones en la vida es **aprender**. Hoy estoy cursando una ingeniería y creo que es una buena manera de aplicar este valor.
+Mis actuales objetivos creo que están bastante alineados con mis valores. Uno mis principales valores y motivaciones en la vida es **aprender**, es más, actualmente estoy cursando una ingeniería y creo que es una buena manera de aplicar este valor.
+
+Otro de mis objetivos es lograr mayor conexión con mis hijos, pareja y hermano. El valor del amor por tus seres queridos, es un fiel reflejo de lo que deseo dar y recibir en mi vida.
 
 
 ## Conclusión.
-Hacerse preguntas introspectivas te llevan a revisarte, algo que creo es muy positivo. Sobre todo si lo que revisas tiene data de un año, tiempo más que suficiente para identificar qué tan disciplinado has sido, y cuales son realmente esas conductas que debes cambiar o reafirmar. 
+Hacerse preguntas introspectivas hacen que te cuestiones, que te revises, algo que creo es muy positivo. Sobre todo si lo que analizas tiene data de un año, tiempo más que suficiente para identificar qué tan disciplinado has sido, y cuales son realmente esas conductas que debes cambiar o reafirmar. 
