@@ -2,54 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on @arturo</title>
-    <link>https://a.geek.cl/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 18:33:17 -0300</lastBuildDate>
-    <atom:link href="https://a.geek.cl/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 02:35:23 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metas personales para este año 2025</title>
+      <link>http://localhost:1313/metas-2025/</link>
+      <pubDate>Thu, 02 Jan 2025 02:35:23 -0300</pubDate>
+      <guid>http://localhost:1313/metas-2025/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Un compendio de lo que me propongo mejorar y comenzar a hacer en este nuevo año.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>6 Preguntas Estoicas Para Reflexionar Sobre el Año Pasado.</title>
+      <link>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</guid>
+      <description>&lt;p&gt;Desde &lt;a href=&#34;https://elgriegoestoico.substack.com/p/6-preguntas-estoicas-para-reflexionar&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;El Griego Estoico&lt;/a&gt;, hago eco de estas 6 preguntas para reflexionar sobre lo que ha sido este 2023 y prepararse para el 2024.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mate Mananita</title>
-      <link>https://a.geek.cl/mate-mananita/</link>
+      <link>http://localhost:1313/mate-mananita/</link>
       <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/mate-mananita/</guid>
-      <description>Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».</description>
+      <guid>http://localhost:1313/mate-mananita/</guid>
+      <description>&lt;p&gt;Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Entrenamiento Para Hombres Anti Erosión</title>
-      <link>https://a.geek.cl/entrenamiento-para-hombres-antierosion/</link>
+      <link>http://localhost:1313/entrenamiento-para-hombres-antierosion/</link>
       <pubDate>Fri, 01 Oct 2021 22:35:06 -0300</pubDate>
-      <guid>https://a.geek.cl/entrenamiento-para-hombres-antierosion/</guid>
-      <description>El tiempo pasa implacable por nuestra piel, usando los poros, pasando a llevar los huesos y desgastándolos así como el viento erosiona las piedras en los cerros.</description>
+      <guid>http://localhost:1313/entrenamiento-para-hombres-antierosion/</guid>
+      <description>&lt;p&gt;El tiempo pasa implacable por nuestra piel, usando los poros, pasando a llevar los huesos y desgastándolos así como el viento erosiona las piedras en los cerros.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barbero</title>
-      <link>https://a.geek.cl/barbero/</link>
+      <link>http://localhost:1313/barbero/</link>
       <pubDate>Wed, 11 Aug 2021 18:10:27 -0400</pubDate>
-      <guid>https://a.geek.cl/barbero/</guid>
-      <description>Ir al barbero sin falta cada mes, es de los ritos masculinos que más disfruto. Al final me relajo, me siento y veo bien (creo).</description>
+      <guid>http://localhost:1313/barbero/</guid>
+      <description>&lt;p&gt;Ir al barbero sin falta cada mes, es de los ritos masculinos que más disfruto. Al final me relajo, me siento y veo bien (creo). El mago en todo esto es &lt;a href=&#34;https://www.instagram.com/_gersonleiva7/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@_gersonleiva7&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>18-10-19 Bendito Mercado</title>
-      <link>https://a.geek.cl/18-10-19-bendito-mercado/</link>
+      <link>http://localhost:1313/18-10-19-bendito-mercado/</link>
       <pubDate>Fri, 14 Feb 2020 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/18-10-19-bendito-mercado/</guid>
-      <description>Se rebalsó el vaso, el Maldito Libre Mercado tiene sus días contados. Para los «afortunados» de siempre es una catástrofe, para el resto, la gran mayoría, se instala la esperanza de mayor equidad y justicia social.</description>
+      <guid>http://localhost:1313/18-10-19-bendito-mercado/</guid>
+      <description>&lt;p&gt;Se rebalsó el vaso, el &lt;a href=&#34;https://a.geek.cl/maldito-libre-mercado/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Maldito Libre Mercado&lt;/a&gt; tiene sus días contados. Para los &lt;em&gt;«afortunados»&lt;/em&gt; de siempre es una catástrofe, para el resto, la gran mayoría, se instala la esperanza de mayor equidad y justicia social.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maldito Libre Mercado</title>
-      <link>https://a.geek.cl/maldito-libre-mercado/</link>
+      <link>http://localhost:1313/maldito-libre-mercado/</link>
       <pubDate>Sun, 29 Sep 2019 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/maldito-libre-mercado/</guid>
-      <description>Me apesta y me desanima lo desprotegidos que estamos en general, no sólo en Chile, ante el Libre Mercado.</description>
+      <guid>http://localhost:1313/maldito-libre-mercado/</guid>
+      <description>&lt;p&gt;Me apesta y me desanima lo desprotegidos que estamos en general, no sólo en Chile, ante el &lt;a href=&#34;https://es.wikipedia.org/wiki/Mercado_libre&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Libre Mercado&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zero Gravity</title>
-      <link>https://a.geek.cl/zero-gravity/</link>
+      <link>http://localhost:1313/zero-gravity/</link>
       <pubDate>Sun, 29 Jul 2018 15:45:15 -0400</pubDate>
-      <guid>https://a.geek.cl/zero-gravity/</guid>
-      <description>Por ~ Jake Raynor</description>
+      <guid>http://localhost:1313/zero-gravity/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &lt;picture&#xA;      class=&#34;mx-auto my-0 rounded-md&#34;&#xA;      &#xA;    &gt;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;        &lt;source&#xA;          &#xA;            srcset=&#34;http://localhost:1313/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu2343986022972832922.webp 330w,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu14811296136826653578.webp 660w&#xA; &#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu9796402795774611519.webp 753w&#xA; &#xA; &#xA; &#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu9796402795774611519.webp 753w&#xA; &#xA; &#34;&#xA;          &#xA;          sizes=&#34;100vw&#34;&#xA;          type=&#34;image/webp&#34;&#xA;        /&gt;&#xA;      &#xA;      &lt;img&#xA;        width=&#34;753&#34;&#xA;        height=&#34;500&#34;&#xA;        class=&#34;mx-auto my-0 rounded-md&#34;&#xA;        alt=&#34;Zero Gravity&#34;&#xA;        loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;        &#xA;          src=&#34;http://localhost:1313/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu12104693751675712748.jpg&#34;&#xA;          srcset=&#34;http://localhost:1313/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu13554732850530871530.jpg 330w,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu12104693751675712748.jpg 660w&#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280.jpg 753w&#xA; &#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280.jpg 753w&#xA; &#34;&#xA;          sizes=&#34;100vw&#34;&#xA;        &#xA;      /&gt;&#xA;    &lt;/picture&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;cite&gt;Por ~ &lt;a href=&#34;https://jakeraynor.tumblr.com/post/119882598966/zero-gravity&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Jake Raynor&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

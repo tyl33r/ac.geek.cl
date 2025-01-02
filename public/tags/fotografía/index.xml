@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fotografía on @arturo</title>
-    <link>https://a.geek.cl/tags/fotograf%C3%ADa/</link>
-    <description>Recent content in fotografía on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Fotografía on @arturo</title>
+    <link>http://localhost:1313/tags/fotograf%C3%ADa/</link>
+    <description>Recent content in Fotografía on @arturo</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
     <lastBuildDate>Sun, 29 Jul 2018 15:45:15 -0400</lastBuildDate>
-    <atom:link href="https://a.geek.cl/tags/fotograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fotograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zero Gravity</title>
-      <link>https://a.geek.cl/zero-gravity/</link>
+      <link>http://localhost:1313/zero-gravity/</link>
       <pubDate>Sun, 29 Jul 2018 15:45:15 -0400</pubDate>
-      <guid>https://a.geek.cl/zero-gravity/</guid>
-      <description>Por ~ Jake Raynor</description>
+      <guid>http://localhost:1313/zero-gravity/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure&gt;&#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &lt;picture&#xA;      class=&#34;mx-auto my-0 rounded-md&#34;&#xA;      &#xA;    &gt;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;        &lt;source&#xA;          &#xA;            srcset=&#34;http://localhost:1313/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu2343986022972832922.webp 330w,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu14811296136826653578.webp 660w&#xA; &#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu9796402795774611519.webp 753w&#xA; &#xA; &#xA; &#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu9796402795774611519.webp 753w&#xA; &#xA; &#34;&#xA;          &#xA;          sizes=&#34;100vw&#34;&#xA;          type=&#34;image/webp&#34;&#xA;        /&gt;&#xA;      &#xA;      &lt;img&#xA;        width=&#34;753&#34;&#xA;        height=&#34;500&#34;&#xA;        class=&#34;mx-auto my-0 rounded-md&#34;&#xA;        alt=&#34;Zero Gravity&#34;&#xA;        loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;        &#xA;          src=&#34;http://localhost:1313/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu12104693751675712748.jpg&#34;&#xA;          srcset=&#34;http://localhost:1313/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu13554732850530871530.jpg 330w,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280_hu12104693751675712748.jpg 660w&#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280.jpg 753w&#xA; &#xA; &#xA; ,/zero-gravity/tumblr_noxdqy8A111rtfluuo1_1280.jpg 753w&#xA; &#34;&#xA;          sizes=&#34;100vw&#34;&#xA;        &#xA;      /&gt;&#xA;    &lt;/picture&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;cite&gt;Por ~ &lt;a href=&#34;https://jakeraynor.tumblr.com/post/119882598966/zero-gravity&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Jake Raynor&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

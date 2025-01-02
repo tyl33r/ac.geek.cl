@@ -12,7 +12,7 @@ copyright = "Este blog está licenciado: CC BY-NC-SA 4.0"
   # mainSections = ["section1", "section2"]
    description = "Un blog personal (Otro más)"
 
-[author]
+[params.author]
 	name = "Arturo Castro M."
    image = "img/ac-face.jpeg"
    headline = "Blog personal: mis opiniones, consejos y pensamientos, sobre gimnasio, tecnología, filosofía..."

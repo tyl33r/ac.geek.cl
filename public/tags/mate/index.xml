@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mate on @arturo</title>
-    <link>https://a.geek.cl/tags/mate/</link>
-    <description>Recent content in mate on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Mate on @arturo</title>
+    <link>http://localhost:1313/tags/mate/</link>
+    <description>Recent content in Mate on @arturo</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
     <lastBuildDate>Thu, 28 Oct 2021 18:33:17 -0300</lastBuildDate>
-    <atom:link href="https://a.geek.cl/tags/mate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mate Mananita</title>
-      <link>https://a.geek.cl/mate-mananita/</link>
+      <link>http://localhost:1313/mate-mananita/</link>
       <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/mate-mananita/</guid>
-      <description>Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».</description>
+      <guid>http://localhost:1313/mate-mananita/</guid>
+      <description>&lt;p&gt;Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

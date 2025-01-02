@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflexión on @arturo</title>
+    <link>http://localhost:1313/tags/reflexi%C3%B3n/</link>
+    <description>Recent content in Reflexión on @arturo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 13:09:35 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflexi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 Preguntas Estoicas Para Reflexionar Sobre el Año Pasado.</title>
+      <link>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</guid>
+      <description>&lt;p&gt;Desde &lt;a href=&#34;https://elgriegoestoico.substack.com/p/6-preguntas-estoicas-para-reflexionar&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;El Griego Estoico&lt;/a&gt;, hago eco de estas 6 preguntas para reflexionar sobre lo que ha sido este 2023 y prepararse para el 2024.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

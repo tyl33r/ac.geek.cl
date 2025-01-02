@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>opinion on @arturo</title>
-    <link>https://a.geek.cl/tags/opinion/</link>
-    <description>Recent content in opinion on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Opinion on @arturo</title>
+    <link>http://localhost:1313/tags/opinion/</link>
+    <description>Recent content in Opinion on @arturo</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
     <lastBuildDate>Fri, 14 Feb 2020 06:44:00 +0000</lastBuildDate>
-    <atom:link href="https://a.geek.cl/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>18-10-19 Bendito Mercado</title>
-      <link>https://a.geek.cl/18-10-19-bendito-mercado/</link>
+      <link>http://localhost:1313/18-10-19-bendito-mercado/</link>
       <pubDate>Fri, 14 Feb 2020 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/18-10-19-bendito-mercado/</guid>
-      <description>Se rebalsó el vaso, el Maldito Libre Mercado tiene sus días contados. Para los «afortunados» de siempre es una catástrofe, para el resto, la gran mayoría, se instala la esperanza de mayor equidad y justicia social.</description>
+      <guid>http://localhost:1313/18-10-19-bendito-mercado/</guid>
+      <description>&lt;p&gt;Se rebalsó el vaso, el &lt;a href=&#34;https://a.geek.cl/maldito-libre-mercado/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Maldito Libre Mercado&lt;/a&gt; tiene sus días contados. Para los &lt;em&gt;«afortunados»&lt;/em&gt; de siempre es una catástrofe, para el resto, la gran mayoría, se instala la esperanza de mayor equidad y justicia social.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maldito Libre Mercado</title>
-      <link>https://a.geek.cl/maldito-libre-mercado/</link>
+      <link>http://localhost:1313/maldito-libre-mercado/</link>
       <pubDate>Sun, 29 Sep 2019 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/maldito-libre-mercado/</guid>
-      <description>Me apesta y me desanima lo desprotegidos que estamos en general, no sólo en Chile, ante el Libre Mercado.</description>
+      <guid>http://localhost:1313/maldito-libre-mercado/</guid>
+      <description>&lt;p&gt;Me apesta y me desanima lo desprotegidos que estamos en general, no sólo en Chile, ante el &lt;a href=&#34;https://es.wikipedia.org/wiki/Mercado_libre&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Libre Mercado&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

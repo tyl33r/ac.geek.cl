@@ -2,116 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on @arturo</title>
-    <link>https://a.geek.cl/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 18:33:17 -0300</lastBuildDate>
-    <atom:link href="https://a.geek.cl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 02:35:23 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>mate</title>
-      <link>https://a.geek.cl/tags/mate/</link>
+      <title>2025</title>
+      <link>http://localhost:1313/tags/2025/</link>
+      <pubDate>Thu, 02 Jan 2025 02:35:23 -0300</pubDate>
+      <guid>http://localhost:1313/tags/2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metas</title>
+      <link>http://localhost:1313/tags/metas/</link>
+      <pubDate>Thu, 02 Jan 2025 02:35:23 -0300</pubDate>
+      <guid>http://localhost:1313/tags/metas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Objetivos</title>
+      <link>http://localhost:1313/tags/objetivos/</link>
+      <pubDate>Thu, 02 Jan 2025 02:35:23 -0300</pubDate>
+      <guid>http://localhost:1313/tags/objetivos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>http://localhost:1313/tags/2023/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/tags/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024</title>
+      <link>http://localhost:1313/tags/2024/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estoicismo</title>
+      <link>http://localhost:1313/tags/estoicismo/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/tags/estoicismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/tags/filosof%C3%ADa/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/tags/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexión</title>
+      <link>http://localhost:1313/tags/reflexi%C3%B3n/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/tags/reflexi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mate</title>
+      <link>http://localhost:1313/tags/mate/</link>
       <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/tags/mate/</guid>
+      <guid>http://localhost:1313/tags/mate/</guid>
       <description></description>
     </item>
     <item>
-      <title>matero</title>
-      <link>https://a.geek.cl/tags/matero/</link>
+      <title>Matero</title>
+      <link>http://localhost:1313/tags/matero/</link>
       <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/tags/matero/</guid>
+      <guid>http://localhost:1313/tags/matero/</guid>
       <description></description>
     </item>
     <item>
-      <title>yerba mate</title>
-      <link>https://a.geek.cl/tags/yerba-mate/</link>
+      <title>Yerba Mate</title>
+      <link>http://localhost:1313/tags/yerba-mate/</link>
       <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/tags/yerba-mate/</guid>
+      <guid>http://localhost:1313/tags/yerba-mate/</guid>
       <description></description>
     </item>
     <item>
-      <title>entrenamiento</title>
-      <link>https://a.geek.cl/tags/entrenamiento/</link>
+      <title>Entrenamiento</title>
+      <link>http://localhost:1313/tags/entrenamiento/</link>
       <pubDate>Fri, 01 Oct 2021 22:35:06 -0300</pubDate>
-      <guid>https://a.geek.cl/tags/entrenamiento/</guid>
+      <guid>http://localhost:1313/tags/entrenamiento/</guid>
       <description></description>
     </item>
     <item>
-      <title>gimnasio</title>
-      <link>https://a.geek.cl/tags/gimnasio/</link>
+      <title>Gimnasio</title>
+      <link>http://localhost:1313/tags/gimnasio/</link>
       <pubDate>Fri, 01 Oct 2021 22:35:06 -0300</pubDate>
-      <guid>https://a.geek.cl/tags/gimnasio/</guid>
+      <guid>http://localhost:1313/tags/gimnasio/</guid>
       <description></description>
     </item>
     <item>
-      <title>suplementos</title>
-      <link>https://a.geek.cl/tags/suplementos/</link>
+      <title>Suplementos</title>
+      <link>http://localhost:1313/tags/suplementos/</link>
       <pubDate>Fri, 01 Oct 2021 22:35:06 -0300</pubDate>
-      <guid>https://a.geek.cl/tags/suplementos/</guid>
+      <guid>http://localhost:1313/tags/suplementos/</guid>
       <description></description>
     </item>
     <item>
-      <title>barbería</title>
-      <link>https://a.geek.cl/tags/barber%C3%ADa/</link>
+      <title>Barbería</title>
+      <link>http://localhost:1313/tags/barber%C3%ADa/</link>
       <pubDate>Wed, 11 Aug 2021 18:10:27 -0400</pubDate>
-      <guid>https://a.geek.cl/tags/barber%C3%ADa/</guid>
+      <guid>http://localhost:1313/tags/barber%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
-      <title>barbero</title>
-      <link>https://a.geek.cl/tags/barbero/</link>
+      <title>Barbero</title>
+      <link>http://localhost:1313/tags/barbero/</link>
       <pubDate>Wed, 11 Aug 2021 18:10:27 -0400</pubDate>
-      <guid>https://a.geek.cl/tags/barbero/</guid>
+      <guid>http://localhost:1313/tags/barbero/</guid>
       <description></description>
     </item>
     <item>
-      <title>personal</title>
-      <link>https://a.geek.cl/tags/personal/</link>
+      <title>Personal</title>
+      <link>http://localhost:1313/tags/personal/</link>
       <pubDate>Wed, 11 Aug 2021 18:10:27 -0400</pubDate>
-      <guid>https://a.geek.cl/tags/personal/</guid>
+      <guid>http://localhost:1313/tags/personal/</guid>
       <description></description>
     </item>
     <item>
-      <title>afp</title>
-      <link>https://a.geek.cl/tags/afp/</link>
+      <title>Afp</title>
+      <link>http://localhost:1313/tags/afp/</link>
       <pubDate>Fri, 14 Feb 2020 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/tags/afp/</guid>
+      <guid>http://localhost:1313/tags/afp/</guid>
       <description></description>
     </item>
     <item>
-      <title>libre mercado</title>
-      <link>https://a.geek.cl/tags/libre-mercado/</link>
+      <title>Libre Mercado</title>
+      <link>http://localhost:1313/tags/libre-mercado/</link>
       <pubDate>Fri, 14 Feb 2020 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/tags/libre-mercado/</guid>
+      <guid>http://localhost:1313/tags/libre-mercado/</guid>
       <description></description>
     </item>
     <item>
-      <title>opinion</title>
-      <link>https://a.geek.cl/tags/opinion/</link>
+      <title>Opinion</title>
+      <link>http://localhost:1313/tags/opinion/</link>
       <pubDate>Fri, 14 Feb 2020 06:44:00 +0000</pubDate>
-      <guid>https://a.geek.cl/tags/opinion/</guid>
+      <guid>http://localhost:1313/tags/opinion/</guid>
       <description></description>
     </item>
     <item>
-      <title>fotografía</title>
-      <link>https://a.geek.cl/tags/fotograf%C3%ADa/</link>
+      <title>Fotografía</title>
+      <link>http://localhost:1313/tags/fotograf%C3%ADa/</link>
       <pubDate>Sun, 29 Jul 2018 15:45:15 -0400</pubDate>
-      <guid>https://a.geek.cl/tags/fotograf%C3%ADa/</guid>
+      <guid>http://localhost:1313/tags/fotograf%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
-      <title>imagen</title>
-      <link>https://a.geek.cl/tags/imagen/</link>
+      <title>Imagen</title>
+      <link>http://localhost:1313/tags/imagen/</link>
       <pubDate>Sun, 29 Jul 2018 15:45:15 -0400</pubDate>
-      <guid>https://a.geek.cl/tags/imagen/</guid>
+      <guid>http://localhost:1313/tags/imagen/</guid>
       <description></description>
     </item>
     <item>
-      <title>tumbrl</title>
-      <link>https://a.geek.cl/tags/tumbrl/</link>
+      <title>Tumbrl</title>
+      <link>http://localhost:1313/tags/tumbrl/</link>
       <pubDate>Sun, 29 Jul 2018 15:45:15 -0400</pubDate>
-      <guid>https://a.geek.cl/tags/tumbrl/</guid>
+      <guid>http://localhost:1313/tags/tumbrl/</guid>
       <description></description>
     </item>
   </channel>

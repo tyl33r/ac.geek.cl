@@ -2,26 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on @arturo</title>
-    <link>https://a.geek.cl/categories/personal/</link>
+    <link>http://localhost:1313/categories/personal/</link>
     <description>Recent content in Personal on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 18:33:17 -0300</lastBuildDate>
-    <atom:link href="https://a.geek.cl/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 13:09:35 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 Preguntas Estoicas Para Reflexionar Sobre el Año Pasado.</title>
+      <link>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</guid>
+      <description>&lt;p&gt;Desde &lt;a href=&#34;https://elgriegoestoico.substack.com/p/6-preguntas-estoicas-para-reflexionar&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;El Griego Estoico&lt;/a&gt;, hago eco de estas 6 preguntas para reflexionar sobre lo que ha sido este 2023 y prepararse para el 2024.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mate Mananita</title>
-      <link>https://a.geek.cl/mate-mananita/</link>
+      <link>http://localhost:1313/mate-mananita/</link>
       <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/mate-mananita/</guid>
-      <description>Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».</description>
+      <guid>http://localhost:1313/mate-mananita/</guid>
+      <description>&lt;p&gt;Ya son años que tomo mate, es una costumbre que disfruto y me autoimpuse buscando mantener un poco a raya mi ansiedad y la comida, hidratarme y de paso sumar un poco de minerales y sustancias beneficiosas a «la cuerpa».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barbero</title>
-      <link>https://a.geek.cl/barbero/</link>
+      <link>http://localhost:1313/barbero/</link>
       <pubDate>Wed, 11 Aug 2021 18:10:27 -0400</pubDate>
-      <guid>https://a.geek.cl/barbero/</guid>
-      <description>Ir al barbero sin falta cada mes, es de los ritos masculinos que más disfruto. Al final me relajo, me siento y veo bien (creo).</description>
+      <guid>http://localhost:1313/barbero/</guid>
+      <description>&lt;p&gt;Ir al barbero sin falta cada mes, es de los ritos masculinos que más disfruto. Al final me relajo, me siento y veo bien (creo). El mago en todo esto es &lt;a href=&#34;https://www.instagram.com/_gersonleiva7/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@_gersonleiva7&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

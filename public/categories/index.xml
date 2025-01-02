@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on @arturo</title>
-    <link>https://a.geek.cl/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 18:33:17 -0300</lastBuildDate>
-    <atom:link href="https://a.geek.cl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 13:09:35 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
-      <link>https://a.geek.cl/categories/personal/</link>
-      <pubDate>Thu, 28 Oct 2021 18:33:17 -0300</pubDate>
-      <guid>https://a.geek.cl/categories/personal/</guid>
+      <link>http://localhost:1313/categories/personal/</link>
+      <pubDate>Sun, 31 Dec 2023 13:09:35 -0300</pubDate>
+      <guid>http://localhost:1313/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Salud</title>
-      <link>https://a.geek.cl/categories/salud/</link>
+      <link>http://localhost:1313/categories/salud/</link>
       <pubDate>Fri, 01 Oct 2021 22:35:06 -0300</pubDate>
-      <guid>https://a.geek.cl/categories/salud/</guid>
+      <guid>http://localhost:1313/categories/salud/</guid>
       <description></description>
     </item>
   </channel>

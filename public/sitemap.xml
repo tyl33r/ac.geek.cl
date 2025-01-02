@@ -4,8 +4,8 @@
   
     
       <url>
-            <loc>https://a.geek.cl/</loc>
-            <lastmod>2021-10-28T18:33:17-03:00</lastmod>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-01-02T02:35:23-03:00</lastmod>
           </url>
     
   
@@ -15,19 +15,17 @@
   
     
       <url>
-            <loc>https://a.geek.cl/mate-mananita/</loc>
-            <lastmod>2021-10-28T18:33:17-03:00</lastmod>
+            <loc>http://localhost:1313/metas-2025/</loc>
+            <lastmod>2025-01-02T02:35:23-03:00</lastmod>
           </url>
     
   
     
   
     
-  
-    
       <url>
-            <loc>https://a.geek.cl/post/</loc>
-            <lastmod>2021-10-28T18:33:17-03:00</lastmod>
+            <loc>http://localhost:1313/post/</loc>
+            <lastmod>2025-01-02T02:35:23-03:00</lastmod>
           </url>
     
   
@@ -39,7 +37,39 @@
   
     
       <url>
-            <loc>https://a.geek.cl/entrenamiento-para-hombres-antierosion/</loc>
+            <loc>http://localhost:1313/6-preguntas-estoicas-reflexionar-sobre-ano/</loc>
+            <lastmod>2023-12-31T13:09:35-03:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/mate-mananita/</loc>
+            <lastmod>2021-10-28T18:33:17-03:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/entrenamiento-para-hombres-antierosion/</loc>
             <lastmod>2021-10-01T22:35:06-03:00</lastmod>
           </url>
     
@@ -56,7 +86,7 @@
   
     
       <url>
-            <loc>https://a.geek.cl/barbero/</loc>
+            <loc>http://localhost:1313/barbero/</loc>
             <lastmod>2021-08-11T18:10:27-04:00</lastmod>
           </url>
     
@@ -65,7 +95,7 @@
   
     
       <url>
-            <loc>https://a.geek.cl/18-10-19-bendito-mercado/</loc>
+            <loc>http://localhost:1313/18-10-19-bendito-mercado/</loc>
             <lastmod>2020-02-14T06:44:00+00:00</lastmod>
           </url>
     
@@ -78,7 +108,7 @@
   
     
       <url>
-            <loc>https://a.geek.cl/maldito-libre-mercado/</loc>
+            <loc>http://localhost:1313/maldito-libre-mercado/</loc>
             <lastmod>2019-09-29T06:44:00+00:00</lastmod>
           </url>
     
@@ -91,8 +121,15 @@
   
     
       <url>
-            <loc>https://a.geek.cl/zero-gravity/</loc>
+            <loc>http://localhost:1313/zero-gravity/</loc>
             <lastmod>2018-07-29T15:45:15-04:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/pagina/</loc>
+            <lastmod>2018-07-08T04:36:24-04:00</lastmod>
           </url>
     
   

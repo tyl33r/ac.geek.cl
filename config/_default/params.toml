@@ -9,7 +9,7 @@ colorScheme = "Avocado"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
 enableImageLazyLoading = true
 

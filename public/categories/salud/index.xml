@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salud on @arturo</title>
-    <link>https://a.geek.cl/categories/salud/</link>
+    <link>http://localhost:1313/categories/salud/</link>
     <description>Recent content in Salud on @arturo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <copyright>Este blog está licenciado: CC BY-NC-SA 4.0</copyright>
     <lastBuildDate>Fri, 01 Oct 2021 22:35:06 -0300</lastBuildDate>
-    <atom:link href="https://a.geek.cl/categories/salud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/salud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entrenamiento Para Hombres Anti Erosión</title>
-      <link>https://a.geek.cl/entrenamiento-para-hombres-antierosion/</link>
+      <link>http://localhost:1313/entrenamiento-para-hombres-antierosion/</link>
       <pubDate>Fri, 01 Oct 2021 22:35:06 -0300</pubDate>
-      <guid>https://a.geek.cl/entrenamiento-para-hombres-antierosion/</guid>
-      <description>El tiempo pasa implacable por nuestra piel, usando los poros, pasando a llevar los huesos y desgastándolos así como el viento erosiona las piedras en los cerros.</description>
+      <guid>http://localhost:1313/entrenamiento-para-hombres-antierosion/</guid>
+      <description>&lt;p&gt;El tiempo pasa implacable por nuestra piel, usando los poros, pasando a llevar los huesos y desgastándolos así como el viento erosiona las piedras en los cerros.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
