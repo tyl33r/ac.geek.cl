@@ -36,7 +36,7 @@ La ayuda al prójimo, creo que es fundamental en nuestras vidas, tanto como apor
 
 Todo esto se verá plasmado primeramente con la activación de este blog. Pretendo escribir pensamientos de vida, cosas más técnicas e ideas que crea puedan significar un aporte a alguien. Y de paso con esto alimentar de información mi **«segundo cerebro»**.
 
-Quiero escribir sobre lo que me apasiona y me interesa aprender. Café de especialidad, filosofía, alimentación (keto, ayuno intermitente), tecnología, criptomonedas, NFT, TRT, desarrollo personal... Temas que me apasionan y mantienen mi mente ocupada, temas que me interesa compartir con los demás desde mi experiencia y perspectiva personal.
+Quiero escribir sobre lo que me apasiona y me interesa aprender. Café de especialidad, filosofía, alimentación (keto, ayuno intermitente), tecnología, criptomonedas, ETF, TRT, desarrollo personal... Temas que me apasionan y mantienen mi mente ocupada, temas que me interesa compartir con los demás desde mi experiencia y perspectiva personal.
 
 ## Finalizando y resumiendo.
 Pretendo activar el blog personal, escribir sobre lo que me apasiona y crea pueda aportar a otros. Seguir creciendo y aprendiendo en función de ser cada vez una mejor persona.
